@@ -1,9 +1,6 @@
 # go-http-digest-auth-client
 
-
-> **Due to time limit on my side I won't be able to maintain this package. Please consider using
-> some other library like https://github.com/rkl-/digest. Thanks for your support!**
-
+Forked from https://github.com/xinsnake/go-http-digest-auth-client. It is archived and recommends https://github.com/rkl-/digest. The later is gone.
 
 Golang Http Digest Authentication Client
 
