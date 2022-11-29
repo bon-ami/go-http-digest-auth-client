@@ -1,5 +1,7 @@
 # go-http-digest-auth-client
 
+This client has Content Type issue with json body, discovered with gerrit. https://github.com/mongodb-forks/digest or my fork shoulld be used. So this is archived.
+
 Forked from https://github.com/xinsnake/go-http-digest-auth-client. It is archived and recommends https://github.com/rkl-/digest. The later is gone.
 
 Golang Http Digest Authentication Client
